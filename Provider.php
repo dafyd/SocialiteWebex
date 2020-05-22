@@ -36,6 +36,7 @@ class Provider extends AbstractProvider
      */
     public static function additionalConfigKeys()
     {
+        return [];
     }
 
     /**
